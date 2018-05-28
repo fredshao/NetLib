@@ -1,0 +1,9 @@
+C:\Users\ZeroOne\source\repos\NetLib\SocketClient\bin\Debug\netstandard2.0\SocketClient.deps.json
+C:\Users\ZeroOne\source\repos\NetLib\SocketClient\bin\Debug\netstandard2.0\SocketClient.dll
+C:\Users\ZeroOne\source\repos\NetLib\SocketClient\bin\Debug\netstandard2.0\SocketClient.pdb
+C:\Users\ZeroOne\source\repos\NetLib\SocketClient\obj\Debug\netstandard2.0\SocketClient.csprojResolveAssemblyReference.cache
+C:\Users\ZeroOne\source\repos\NetLib\SocketClient\obj\Debug\netstandard2.0\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\ZeroOne\source\repos\NetLib\SocketClient\obj\Debug\netstandard2.0\SocketClient.AssemblyInfoInputs.cache
+C:\Users\ZeroOne\source\repos\NetLib\SocketClient\obj\Debug\netstandard2.0\SocketClient.AssemblyInfo.cs
+C:\Users\ZeroOne\source\repos\NetLib\SocketClient\obj\Debug\netstandard2.0\SocketClient.dll
+C:\Users\ZeroOne\source\repos\NetLib\SocketClient\obj\Debug\netstandard2.0\SocketClient.pdb
